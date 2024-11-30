@@ -30,14 +30,13 @@
 ## 国内可用的 ChatGPT 镜像网站推荐
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，为用户提供高效的中文访问体验：
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
-- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+- [https://ai.dk82.com/](https://ai.dk82.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [https://www.dk82.com/](https://www.dk82.com/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 
 ## 如何快速开始使用ChatGPT中文版？（详细教程）
-  选择上方的网址，如：[https://chat.lify.vip/](https://chat.lify.vip/)。 <br />
+  选择上方的网址，如：[https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html)。 <br />
   在左上角，点击登录（也可以直接提问）<br />
   弹出二维码后，使用微信扫码就可以了~~
 
