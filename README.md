@@ -1,14 +1,14 @@
 # ChatGPT中文版：国内访问指南支持GPT4.5，无需翻墙，无限使用GPT4.5和o3
 
-> 更新时间：2025/3/14 <br />
+> 更新时间：2025/3/18 <br />
 > 作者：chatgpt-chinese 
 
 **全面体验ChatGPT中文版，无需翻墙，支持GPT-4.0和多功能应用！ 无限使用ChatGPT-4o和o1 ！！！** <br /> 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手ChatGPT，无论是个人使用还是专业需求。
 
 ## 什么是ChatGPT中文版？
-**ChatGPT中文版** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。
-与官方 ChatGPT 相比，中文版在以下方面更适合国内用户：
+**ChatGPT中文版** 是 OpenAI 开发的chatgpt模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。
+与官方chatgpt相比，中文版在以下方面更适合国内用户：
 
 - **无需翻墙**：国内就能直接用，不需要任何代理工具。
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -29,7 +29,7 @@
 
 ## 国内可用的 ChatGPT镜像网站推荐
 
-以下是我们精选的国内优质 ChatGPT 中文版镜像网站，为用户提供高效的中文访问体验：
+以下是我们精选的国内优质chatgpt中文版镜像网站，为用户提供高效的中文访问体验：
 - [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
 - [https://ai.dk82.com/](https://ai.dk82.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://www.dk82.com/](https://www.dk82.com/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
